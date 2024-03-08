@@ -33,4 +33,4 @@ To achieve their goals, the stakeholders would like to be able to answer the fol
 1. Project Management: Contains information about the project requirements, datasets, analysis criteria, tasks and deliverables.
 2. Scripts: Contains all Python scripts used in this analysis.
 3. Analysis: Contains visualization charts and graphs about our findings.
-4. Final deliverables: Contains an Excel report file that summarizes all the steps involved in this analysis, our findings and recommendations.
+4. Final deliverables: Contains an Excel report file that summarizes all the steps involved in this analysis, our findings, conclusion and recommendations.
