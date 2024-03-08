@@ -27,9 +27,8 @@ The "Instacart Online Grocery Shopping Dataset 2017" is an open data publicly ac
 The Customers dataset used in this analysis is not part of Instacart Online Grocery Shopping Dataset 2017 and exists only with the scope of this project.
 
 ## Project Folder Structure
-The project folder is structured as follows:
 
-1. Project Management: Contains information about the project goals and objectives, datasets, analysis criteria, and tasks and deliverables.
+1. Project Management: Contains information about the project goals and objectives, datasets, analysis criteria, tasks and deliverables.
 2. Scripts: Contains all Python scripts used in this analysis.
-3. Analysis: Includes visualizations about our findings.
-4. Final deliverables: Contains an Excel report file that lists all the steps involved in this analysis, our findings and recommendations.
+3. Analysis: Contains visualization graphs and charts about our findings.
+4. Final deliverables: Contains an Excel report file that summarizes all the steps involved in this analysis, our findings and recommendations.
