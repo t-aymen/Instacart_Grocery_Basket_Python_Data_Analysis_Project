@@ -24,7 +24,7 @@ The Instacart stakeholders are most interested in the variety of customers in th
 ## Data Sources
 The "Instacart Online Grocery Shopping Dataset 2017" is an open data publicly accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on 16.05.2017.
 
-The Customers dataset used in this analysis is not part of Instacart Online Grocery Shopping Dataset 2017 and exists only with the scope of this project.
+The <a href="https://drive.google.com/file/d/1vBVXXVRJl6BcGdan9VggcbgoRXz8Vhn6/view?usp=drive_link">Customers dataset </a> used in this analysis is not part of Instacart Online Grocery Shopping Dataset 2017 and exists only with the scope of this project.
 
 ## Project Folder Structure
 
