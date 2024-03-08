@@ -26,7 +26,7 @@ The Instacart stakeholders are most interested in the variety of customers in th
 
 ## Project Folder Structure
 
-1. Project Management: Contains information about the project requirements, datasets, analysis criteria, tasks and deliverables.
-2. Scripts: Contains all Python scripts used in this analysis.
-3. Analysis: Contains visualization charts and graphs about our findings.
-4. Final deliverables: Contains an Excel report file that summarizes all the steps involved in this analysis, our findings, conclusion and recommendations.
+1. <ins>Project Management</ins>: Contains information about the project requirements, datasets, analysis criteria, tasks and deliverables.
+2. <ins>Scripts</ins>: Contains all Python scripts used in this analysis.
+3. <ins>Analysis</ins>: Contains visualization charts and graphs about our findings.
+4. <ins>Final deliverables</ins>: Contains an Excel report file that summarizes all the steps involved in this analysis, our findings, conclusion and recommendations.
