@@ -28,7 +28,7 @@ The <a href="https://drive.google.com/file/d/1vBVXXVRJl6BcGdan9VggcbgoRXz8Vhn6/v
 
 ## Project Folder Structure
 
-1. Project Management: Contains information about the project goals and objectives, datasets, analysis criteria, tasks and deliverables.
+1. Project Management: Contains information about the project requirements, datasets, analysis criteria, tasks and deliverables.
 2. Scripts: Contains all Python scripts used in this analysis.
 3. Analysis: Contains visualization graphs and charts about our findings.
 4. Final deliverables: Contains an Excel report file that summarizes all the steps involved in this analysis, our findings and recommendations.
