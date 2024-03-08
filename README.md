@@ -22,9 +22,9 @@ The Instacart stakeholders are most interested in the variety of customers in th
   * What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
 ## Data Sources
-The <a href="https://www.kaggle.com/c/instacart-market-basket-analysis"> Instacart Online Grocery Shopping Dataset 2017 </a> is an open data publicly accessed via Kaggle on 16.05.2017.
+* <a href="https://www.kaggle.com/c/instacart-market-basket-analysis"> Instacart Online Grocery Shopping Dataset 2017 </a> is an open data publicly accessed via Kaggle on 16.05.2017.
 
-The <a href="https://drive.google.com/file/d/1vBVXXVRJl6BcGdan9VggcbgoRXz8Vhn6/view?usp=drive_link">Customers dataset </a> used in this analysis is not part of Instacart Online Grocery Shopping Dataset 2017 and exists only with the scope of this project.
+* <a href="https://drive.google.com/file/d/1vBVXXVRJl6BcGdan9VggcbgoRXz8Vhn6/view?usp=drive_link">Customers dataset </a> used in this analysis is not part of Instacart Online Grocery Shopping Dataset 2017 and exists only with the scope of this project.
 
 ## Project Folder Structure
 
