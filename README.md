@@ -23,7 +23,7 @@ To achieve their goals, the stakeholders would like to be able to answer the fol
   * What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
   * What differences can we find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, etc.
 
-## Data Sources
+## Data Source
 * <a href="https://www.kaggle.com/c/instacart-market-basket-analysis"> Instacart Online Grocery Shopping Dataset 2017 </a> is an open data publicly accessed via Kaggle on 16.05.2017.
 
 * <a href="https://drive.google.com/file/d/1vBVXXVRJl6BcGdan9VggcbgoRXz8Vhn6/view?usp=drive_link">Customers dataset </a> used in this analysis is not part of Instacart Online Grocery Shopping Dataset 2017 and exists only with the scope of this project.
