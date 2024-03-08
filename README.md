@@ -1,4 +1,4 @@
-# Instacart Grocery Basket Python Data Analysis Project
+# Instacart Grocery Basket Analysis Project
 
 You’re an analyst for an existing company, Instacart, an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. 
 Your task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
@@ -26,5 +26,10 @@ The "Instacart Online Grocery Shopping Dataset 2017" is an open data publicly ac
 
 The Customers dataset used in this analysis is not part of Instacart Online Grocery Shopping Dataset 2017 and exists only with the scope of this project.
 
-## Project Structure and Deliverables
-The analysis is broken down into 9 parts. Each part focuses on a specific task and deliverable at a time. Here's a breakdown of 
+## Project Folder Structure
+The project folder is structured as follows:
+
+1. Project Management: Contains information about the project goals and objectives, datasets, analysis criteria, and tasks and deliverables.
+2. Scripts: Contains all Python scripts used in this analysis.
+3. Analysis: Includes visualizations about our findings.
+4. Final deliverables: Contains an Excel report file that lists all the steps involved in this analysis, our findings and recommendations.
