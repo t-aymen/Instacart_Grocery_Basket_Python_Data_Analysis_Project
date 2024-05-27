@@ -20,12 +20,11 @@ The Instacart stakeholders are most interested in the variety of customers in th
   * What differences can we find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, etc.
 
 ## Data Source
-* <a href="https://www.kaggle.com/c/instacart-market-basket-analysis"> Instacart Online Grocery Shopping Dataset 2017 </a> is an open data publicly accessed via Kaggle on 16.05.2017.
+* The <a href="https://www.kaggle.com/c/instacart-market-basket-analysis"> Instacart Online Grocery Shopping 2017</a> dataset is an open data publicly accessed via Kaggle on 16.05.2017.
 
-* <a href="https://drive.google.com/file/d/1vBVXXVRJl6BcGdan9VggcbgoRXz8Vhn6/view?usp=drive_link">Customers dataset </a> used in this analysis is not part of Instacart Online Grocery Shopping Dataset 2017 and exists only with the scope of this project.
+* The <a href="https://drive.google.com/file/d/1vBVXXVRJl6BcGdan9VggcbgoRXz8Vhn6/view?usp=drive_link">Customers</a> dataset used in this analysis is provided by CareerFoundry and is not part of Instacart Online Grocery Shopping Dataset 2017.
 
 ## Project Folder Structure
-
 1. <ins>Project Management</ins>: Contains information about the project requirements, datasets, analysis criteria, tasks and deliverables.
 2. <ins>Scripts</ins>: Contains all Python scripts used in this analysis.
 3. <ins>Analysis</ins>: Contains visualization charts and graphs about our findings.
