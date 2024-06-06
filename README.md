@@ -25,7 +25,6 @@ The Instacart stakeholders are most interested in the variety of customers in th
 * The <a href="https://drive.google.com/file/d/1vBVXXVRJl6BcGdan9VggcbgoRXz8Vhn6/view?usp=drive_link">Customers</a> dataset used in this analysis is provided by CareerFoundry and is not part of Instacart Online Grocery Shopping Dataset 2017.
 
 ## Project Folder Structure
-1. <ins>Project Management</ins>: Contains information about the project requirements, datasets, analysis criteria, tasks and deliverables.
-2. <ins>Scripts</ins>: Contains all Python scripts used in this analysis.
-3. <ins>Analysis</ins>: Contains visualization charts and graphs about our findings.
-4. <ins>Final deliverables</ins>: Contains an Excel report file that summarizes all the steps involved in this analysis, our findings, conclusion and recommendations.
+1. <ins>Project Management</ins>: Contains a project brief provied by CarrerFoundry outlining the project requirements, datasets, analysis criteria, tasks and deliverables.
+2. <ins>Scripts</ins>: Contains all Python scripts pertaining to this analysis.
+3. <ins>Analysis and Visualization</ins>: Contains visualizations and an Excel report file summarizing all the steps involved in this analysis, our findings, conclusion and recommendations.
